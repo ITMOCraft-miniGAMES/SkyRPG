@@ -1,0 +1,4 @@
+name: SkyRPG
+version: '${project.version}'
+main: thor.SkyRPG
+api-version: '1.20'

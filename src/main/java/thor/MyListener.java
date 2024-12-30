@@ -1,0 +1,7 @@
+package thor;
+
+import org.bukkit.event.Listener;
+
+public class MyListener implements Listener {
+
+}
